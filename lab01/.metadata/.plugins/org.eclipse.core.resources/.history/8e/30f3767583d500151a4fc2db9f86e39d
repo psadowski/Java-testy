@@ -1,0 +1,12 @@
+package com.example.nwd;
+
+import static org.junit.Assert.*;
+
+import org.junit.NWDtests;
+
+public class NWDtests {
+
+	private NWD nwd = new NWD();
+}
+
+

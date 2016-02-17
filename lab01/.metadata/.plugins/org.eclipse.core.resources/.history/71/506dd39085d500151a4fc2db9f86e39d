@@ -1,0 +1,15 @@
+package com.example.nwd;
+
+public class NWD {
+	public static int NWD_calc(int pierwsza, int druga)
+	    {
+	        if (druga == 0) 
+	        {
+	            return pierwsza;  
+	        }
+	        else 
+	        {  
+	            return NWD_calc(druga, pierwsza%druga);
+	        }
+	    }
+}

@@ -1,0 +1,28 @@
+package com.example.test;
+import static org.junit.Assert.*;
+import com.example.nwd.NWD;
+import org.junit.Before;
+import org.junit.Test;
+public class NWDtest {
+	private NWD test;
+	
+	@Before
+	public void setUp(){
+		test = new NWD();
+	}
+	
+	@Test
+	
+	public void nwdCalc(){
+		assertEquals(4, test.NWD_calc(4,8));
+	}
+	
+	@Test
+	
+	public void zeroNwd(){
+		
+	}
+	
+	
+	
+}
