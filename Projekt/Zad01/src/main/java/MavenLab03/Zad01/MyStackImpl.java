@@ -2,6 +2,7 @@ package MavenLab03.Zad01;
 
 import java.util.List;
 
+
 public class MyStackImpl implements MyStack {
 	private List<Integer> stack;
 	
@@ -18,7 +19,13 @@ public class MyStackImpl implements MyStack {
 	}
 
 	public void MyPop() {
-		
+		if(stack == null){
+			throw new NullPointerException();
+		} else if(stack.size() == 0) {
+			throw new ArrayIndexOutOfBoundsException();
+		} else {
+			stack.remove(stack.size() - 1);
+		}
 	}
 
 	public boolean IsNull() {
@@ -31,7 +38,7 @@ public class MyStackImpl implements MyStack {
 	}
 
 	public int MyTop() {
-
+		return 0;
 	}
 
 }
