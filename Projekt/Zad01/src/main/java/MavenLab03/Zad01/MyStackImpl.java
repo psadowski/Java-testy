@@ -15,7 +15,11 @@ public class MyStackImpl implements MyStack {
 	}
 
 	public void MyPush(int val) {
+		if(stack == null){
+			throw new NullPointerException();
+		} else {
 			stack.add(val);
+		}
 	}
 
 	public void MyPop() {
