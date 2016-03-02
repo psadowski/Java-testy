@@ -4,23 +4,23 @@ import static org.junit.Assert.*;
 
 import java.util.ArrayList;
 
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class StackPopExceptionTest {
+public class StackTopExceptionTest {
 	private MyStackImpl stack;
+	
 	@Before
 	public void setUp() throws Exception {
 		stack = new MyStackImpl();
 	}
-	
+
 	@Test
 	public void NullStackException() {
 		stack.setStack(null);
 		try {
-			stack.MyPop();
+			stack.MyTop();
 			} catch (NullPointerException e) {
 				assertTrue(true);
 		}
@@ -30,13 +30,13 @@ public class StackPopExceptionTest {
 	public void EmptyStackException(){
 		stack.setStack(new ArrayList<Integer>());
 		try {
-			stack.MyPop();
+			stack.MyTop();
 		} catch (ArrayIndexOutOfBoundsException e) {
 			assertTrue(true);
 		}
-			
 	}
 
+	
 	@After
 	public void tearDown() throws Exception {
 		stack = null;
