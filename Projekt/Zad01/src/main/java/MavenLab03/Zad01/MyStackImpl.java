@@ -6,17 +6,20 @@ public class MyStackImpl implements MyStack {
 	private List<Integer> stack;
 	
 	public void MyPush(int val) {
-		stack.add(val);
+			stack.add(val);
 	}
 
 	public void MyPop() {
-		// TODO Auto-generated method stub
-
+		
 	}
 
 	public boolean IsNull() {
-		// TODO Auto-generated method stub
-		return false;
+		if(stack == null) {
+			return true;
+		} else {
+			return false;
+
+		}
 	}
 
 	public int MyTop() {
