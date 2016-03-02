@@ -42,7 +42,13 @@ public class MyStackImpl implements MyStack {
 	}
 
 	public int MyTop() {
-		return 0;
+		if(stack == null){
+			throw new NullPointerException();
+		} else if(stack.size() == 0){
+			throw new ArrayIndexOutOfBoundsException();
+		} else {
+			return stack.get(stack.size() - 1);
+		}
 	}
 
 }
