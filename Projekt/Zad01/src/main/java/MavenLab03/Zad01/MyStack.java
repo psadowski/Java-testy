@@ -6,5 +6,4 @@ public interface MyStack {
 	public boolean IsNull();
 	public int MyTop();
 	
-	
 }
