@@ -2,11 +2,13 @@ package MavenLab03.Zad01;
 
 import static org.junit.Assert.*;
 
+import java.util.ArrayList;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class StackNullException {
+public class StackNullTest {
 	private MyStackImpl stack ;
 	
 	@Before
@@ -15,20 +17,23 @@ public class StackNullException {
 	}
 
 	@Test
-	public void NullStackException() {
+	public void NullStackTest() {
 		stack.setStack(null);
-		try {
-			stack.MyTop();
-			} catch (NullPointerException e) {
-				assertTrue(true);
-		}
+		boolean result = stack.IsNull();
+		assertEquals(true, result);
+	}
+	
+	@Test
+	public void NotNullStackTest() {
+		stack.setStack(new ArrayList<Integer>());
+		boolean result = stack.IsNull();
+		assertEquals(false,result);
 	}
 	
 	@After
 	public void tearDown() throws Exception {
 		stack = null;
 	}
-
 
 
 }
