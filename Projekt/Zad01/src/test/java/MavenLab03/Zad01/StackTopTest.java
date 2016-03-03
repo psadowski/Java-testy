@@ -1,12 +1,12 @@
 package MavenLab03.Zad01;
 
 import static org.junit.Assert.*;
-
+import static org.junit.matchers.JUnitMatchers.*;
+import static org.hamcrest.Matchers.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -47,7 +47,7 @@ public class StackTopTest {
 	public void StackTopCorrectTest() {
 		stack.setStack(testData);
 		int result = stack.MyTop();
-		assertEquals(expectedResult, result);
+		assertThat(result, is(equalTo(expectedResult)));
 	}
 	
 	
@@ -57,9 +57,11 @@ public class StackTopTest {
 		stack.MyPush(4);
 		for(int i = 1; i<=10; i++ ){
 			int result = stack.MyTop();
-			assertEquals(4,result);
+			assertThat(result, is(equalTo(4)));
 		}
 	}
+	
+
 	
 	@After
 	public void tearDown() throws Exception {

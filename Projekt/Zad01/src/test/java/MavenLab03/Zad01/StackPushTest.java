@@ -13,7 +13,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
-
+import static org.hamcrest.Matchers.*;
 @RunWith(Parameterized.class)
 
 public class StackPushTest {
@@ -53,8 +53,17 @@ public class StackPushTest {
 		stack.MyPush(pushedVal);
 		List<Integer> result = stack.getStack();
 		assertEquals(expectedResult, result);
+
 	}
 	
+	@Test
+	public void StackPopNaiveTest(){
+		stack.setStack(new ArrayList<Integer>() {{add(3);}});
+		ArrayList<Integer> result = stack.getStack();
+		assertThat(result, is(not(equalTo(null))));
+		assertThat(result.size(), is(equalTo(1)));
+		assertThat(result, contains(3));
+	}
 	
 	@After
 	public void tearDown() throws Exception {
