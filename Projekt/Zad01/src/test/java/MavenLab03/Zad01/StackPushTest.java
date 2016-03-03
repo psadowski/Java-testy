@@ -27,7 +27,9 @@ public class StackPushTest {
 		 Object[][] c = { 
         	{new ArrayList<Integer>() {{ add(1); add(2); add(3); }}, 4, new ArrayList<Integer>() {{add(1); add(2); add(3); add(4);}}},
         	{new ArrayList<Integer>(), 1,  new ArrayList<Integer>() {{add(1);}} },
-        	{new ArrayList<Integer>() {{add(1);}}, 4, new ArrayList<Integer>() {{add(1); add(4);}}}	
+        	{new ArrayList<Integer>() {{add(1);}}, 4, new ArrayList<Integer>() {{add(1); add(4);}}},
+        	{new ArrayList<Integer>() {{add(1);}}, Integer.MAX_VALUE, new ArrayList<Integer>() {{add(1); add(2147483647);}}},
+        	{new ArrayList<Integer>() {{add(1);}}, Integer.MIN_VALUE, new ArrayList<Integer>() {{add(1); add(-2147483648);}}}	
         };
       return  Arrays.asList(c);
 	}
