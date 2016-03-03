@@ -2,6 +2,7 @@ package MavenLab03.Zad01;
 
 import static org.junit.Assert.*;
 
+import java.util.ArrayList;
 
 import org.junit.After;
 import org.junit.Before;
