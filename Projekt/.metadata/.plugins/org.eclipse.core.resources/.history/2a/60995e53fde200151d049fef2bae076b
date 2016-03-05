@@ -1,0 +1,5 @@
+package MavenLab03.Zad02;
+
+public class NieudanyPsikusExcpetion extends Exception {
+
+}

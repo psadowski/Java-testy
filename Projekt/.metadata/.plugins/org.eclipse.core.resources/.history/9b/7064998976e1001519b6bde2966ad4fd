@@ -1,0 +1,51 @@
+package MavenLab03.Zad01;
+
+import static org.junit.Assert.*;
+
+import java.util.ArrayList;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import static org.hamcrest.Matchers.*;
+public class StackNullTest {
+	private MyStackImpl stack ;
+	
+	@Before
+	public void setUp() throws Exception {
+		stack = new MyStackImpl();
+	}
+
+	@Test
+	public void NullStackTest() {
+		stack.setStack(null);
+		boolean result = stack.IsNull();
+		assertEquals(true, result);
+	}
+	
+	@Test
+	public void NotNullStackTest() {
+		stack.setStack(new ArrayList<Integer>());
+		boolean result = stack.IsNull();
+		assertEquals(false,result);
+		assertThat(stack.getStack(), is(not(equalTo(null))));
+		assertThat(stos.getData().size(), is(equalTo(0)));
+		assertThat(stos.IsNull(), is(equalTo(true)));
+		stos.MyPush(3);
+		assertThat(stos.getData(), is(not(equalTo(null))));
+		assertThat(stos.getData().size(), is(equalTo(1)));
+		assertThat(stos.IsNull(), is(equalTo(false)));
+	}
+	
+	
+	
+	
+	
+	
+	@After
+	public void tearDown() throws Exception {
+		stack = null;
+	}
+
+
+}
