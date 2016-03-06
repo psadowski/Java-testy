@@ -4,11 +4,9 @@ public class Kontrakt implements Psikus {
 
 	private Random random = new Random();
 	
-	
-	
-	public int CyfroKrad(int liczba) {
+	public Integer CyfroKrad(int liczba) {
 		if(liczba <= 9 && liczba >= -9){
-			return (Integer) null;
+			return  null;
 		} else {
 			if(liczba > 0){
 				String liczbaToString = Integer.toString(liczba);
@@ -27,6 +25,7 @@ public class Kontrakt implements Psikus {
 	
 	
 	public int HultajChochla(int liczba) throws NieudanyPsikusException {
+		int result = 0;
 		if(liczba >=9 && liczba<=-9){
 			throw new NieudanyPsikusException();
 		} else {
@@ -39,9 +38,9 @@ public class Kontrakt implements Psikus {
 				tmp = liczbaArray[firstDigit];
 				liczbaArray[firstDigit] =  liczbaArray[secondDigit];
 				liczbaArray[secondDigit] = tmp;
-				return Integer.parseInt(String.valueOf(liczbaArray));
+				result = Integer.parseInt(String.valueOf(liczbaArray));
 				
-			} else {
+			} else if(liczba < 0){
 				char tmp = 0;
 				String liczbaToString = Integer.toString(liczba);
 				int firstDigit = random.nextInt(liczbaToString.length()-1)+1;
@@ -50,9 +49,10 @@ public class Kontrakt implements Psikus {
 				tmp = liczbaArray[firstDigit];
 				liczbaArray[firstDigit] =  liczbaArray[secondDigit];
 				liczbaArray[secondDigit] = tmp;
-				return Integer.parseInt(String.valueOf(liczbaArray));
+				result = Integer.parseInt(String.valueOf(liczbaArray));
 			}
 		}
+		return result;
 	}
 
 	
@@ -113,5 +113,7 @@ public class Kontrakt implements Psikus {
 			}
 		}
 	}
+	
+
 
 }
