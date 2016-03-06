@@ -20,11 +20,34 @@ public class Kontrakt implements Psikus {
 			}
 		}  
 	}
-	/*Metoda HultajChochla działa w ten sposób, że losowo zmienia wystąpienia dwóch cyfr w
-liczbie będącej argumentem.*/
+
 	public int HultajChochla(int liczba) throws NieudanyPsikusException {
-		// TODO Auto-generated method stub
-		return 0;
+		if(liczba >=9 && liczba<=-9){
+			throw new NieudanyPsikusException();
+		} else {
+			if(liczba > 0){
+				char tmp = 0;
+				String liczbaToString = Integer.toString(liczba);
+				int firstDigit = random.nextInt(liczbaToString.length());
+				int secondDigit =  random.nextInt(liczbaToString.length());
+				char[] liczbaArray = liczbaToString.toCharArray();
+				tmp = liczbaArray[firstDigit];
+				liczbaArray[firstDigit] =  liczbaArray[secondDigit];
+				liczbaArray[secondDigit] = tmp;
+				return Integer.parseInt(String.valueOf(liczbaArray));
+				
+			} else {
+				char tmp = 0;
+				String liczbaToString = Integer.toString(liczba);
+				int firstDigit = random.nextInt(liczbaToString.length()-1)+1;
+				int secondDigit =  random.nextInt(liczbaToString.length()-1)+1;
+				char[] liczbaArray = liczbaToString.toCharArray();
+				tmp = liczbaArray[firstDigit];
+				liczbaArray[firstDigit] =  liczbaArray[secondDigit];
+				liczbaArray[secondDigit] = tmp;
+				return Integer.parseInt(String.valueOf(liczbaArray));
+			}
+		}
 	}
 
 	public int Nieksztaltek(int liczba) {
