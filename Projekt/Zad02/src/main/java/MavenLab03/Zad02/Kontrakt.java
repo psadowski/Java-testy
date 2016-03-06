@@ -90,11 +90,15 @@ public class Kontrakt implements Psikus {
 		return Integer.parseInt(liczbaToString);
 	}
 
-	
-	
+
 	public int Heheszki(int liczba) {
-		// TODO Auto-generated method stub
-		return 0;
+		if(liczba == 0){
+			return 0;
+		} else if(liczba < 0){
+			throw new IllegalArgumentException();
+		} else{
+			return random.nextInt(liczba);
+		}
 	}
 
 	public boolean Titit(int liczba_dziel) {
