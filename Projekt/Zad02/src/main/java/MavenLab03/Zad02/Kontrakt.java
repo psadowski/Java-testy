@@ -101,9 +101,17 @@ public class Kontrakt implements Psikus {
 		}
 	}
 
-	public boolean Titit(int liczba_dziel) {
-		// TODO Auto-generated method stub
-		return false;
+
+	public boolean Titit(int liczba, int liczba_dziel) {
+		if(liczba_dziel == 0) {
+			throw new IllegalArgumentException();
+		} else {
+			if(liczba % liczba_dziel == 0) {
+				return true;
+			} else {
+				return false;
+			}
+		}
 	}
 
 }

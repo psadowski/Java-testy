@@ -5,5 +5,5 @@ public interface Psikus{
 	public int HultajChochla(int liczba) throws NieudanyPsikusException;
 	public int Nieksztaltek (int liczba);
 	public int Heheszki(int liczba);
-	boolean Titit(int liczba_dziel);
+	boolean Titit(int liczba ,int liczba_dziel);
 }
