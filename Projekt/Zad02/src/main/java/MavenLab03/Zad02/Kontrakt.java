@@ -4,6 +4,8 @@ public class Kontrakt implements Psikus {
 
 	private Random random = new Random();
 	
+	
+	
 	public int CyfroKrad(int liczba) {
 		if(liczba <= 9 && liczba >= -9){
 			return (Integer) null;
@@ -21,6 +23,9 @@ public class Kontrakt implements Psikus {
 		}  
 	}
 
+	
+	
+	
 	public int HultajChochla(int liczba) throws NieudanyPsikusException {
 		if(liczba >=9 && liczba<=-9){
 			throw new NieudanyPsikusException();
@@ -50,11 +55,43 @@ public class Kontrakt implements Psikus {
 		}
 	}
 
+	
+	
 	public int Nieksztaltek(int liczba) {
-		// TODO Auto-generated method stub
-		return 0;
+		String liczbaToString = Integer.toString(liczba);
+		int option = random.nextInt(3);
+		if(option == 0){
+			if(liczbaToString.indexOf('3')>=0){
+				liczbaToString = liczbaToString.replace('3', '8');
+			} else if(liczbaToString.indexOf('7')>=0){
+				liczbaToString = liczbaToString.replace('7', '1');
+			} else if(liczbaToString.indexOf('6')>=0){
+				liczbaToString = liczbaToString.replace('6', '9');
+			}
+		}
+		else if(option == 1){
+			if(liczbaToString.indexOf('7')>=0){
+				liczbaToString = liczbaToString.replace('7', '1');
+			} else if(liczbaToString.indexOf('6')>=0){
+				liczbaToString = liczbaToString.replace('6', '9');
+			} else if(liczbaToString.indexOf('3')>=0){
+				liczbaToString = liczbaToString.replace('3', '8');
+			}
+		}
+		else if(option == 2){
+			if(liczbaToString.indexOf('6')>=0){
+				liczbaToString = liczbaToString.replace('6', '9');
+			} else if(liczbaToString.indexOf('3')>=0){
+				liczbaToString = liczbaToString.replace('3', '8');
+			} else if(liczbaToString.indexOf('7')>=0){
+				liczbaToString = liczbaToString.replace('7', '1');
+			}
+		}
+		return Integer.parseInt(liczbaToString);
 	}
 
+	
+	
 	public int Heheszki(int liczba) {
 		// TODO Auto-generated method stub
 		return 0;
