@@ -268,3 +268,405 @@
 2016-03-05 19:11:36,690 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
 2016-03-05 19:11:36,690 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-03-05 19:11:36,690 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 13:08:10,221 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 13:08:10,296 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad01\src\main\resources
+2016-03-06 13:08:10,318 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 13:08:10,319 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad01\src\test\resources
+2016-03-06 13:08:11,055 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 13:08:11,056 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 13:08:11,062 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 13:08:11,062 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 13:38:25,783 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 13:38:25,783 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 13:38:25,783 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 13:38:25,783 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 13:47:54,532 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 13:47:54,532 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 13:47:54,532 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 13:47:54,532 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 14:07:49,365 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:07:49,365 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 14:07:49,365 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:07:49,365 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 14:40:41,520 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:40:41,520 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 14:40:41,570 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:40:41,570 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 14:44:01,604 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:44:01,604 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 14:44:01,606 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:44:01,606 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 14:48:09,124 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:48:09,127 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 14:48:09,132 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:48:09,132 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 14:49:27,274 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:49:27,275 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 14:49:27,276 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:49:27,277 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 14:52:16,826 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:52:16,826 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 14:52:16,843 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:52:16,843 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 14:53:39,584 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:53:39,584 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 14:53:39,586 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:53:39,586 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 14:54:44,496 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:54:44,497 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 14:54:44,502 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 14:54:44,502 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:07:27,287 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:07:27,287 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad01\src\main\resources
+2016-03-06 15:07:27,287 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:07:27,287 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad01\src\test\resources
+2016-03-06 15:11:03,911 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:11:04,071 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:11:04,077 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:11:04,082 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:26:54,715 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MavenLab03:Zad02:0.0.1-SNAPSHOT @ C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\pom.xml.
+2016-03-06 15:26:55,101 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:26:55,101 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:26:55,101 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:26:55,119 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:26:56,299 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:26:56,299 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:26:56,319 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:26:56,320 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:33:02,873 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:33:02,873 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:33:02,873 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:33:02,873 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:33:26,726 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:33:26,726 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:33:26,743 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:33:26,746 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:33:28,483 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2016-03-06 15:35:15,362 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:35:15,362 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:35:15,362 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:35:15,382 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:35:34,978 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:35:34,978 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:35:34,978 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:35:34,978 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:35:47,189 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:35:47,189 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:35:47,189 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:35:47,189 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:35:57,996 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:35:57,996 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:35:58,002 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:35:58,006 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:36:51,910 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:36:51,910 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:36:51,927 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:36:51,931 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:38:15,279 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:38:15,280 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:38:15,281 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:38:15,301 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:38:40,374 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:38:40,374 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:38:40,374 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:38:40,391 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:39:18,827 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:39:18,827 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:39:18,833 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:39:18,835 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:39:39,884 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:39:39,884 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:39:39,902 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:39:39,904 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:39:54,085 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:39:54,085 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:39:54,106 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:39:54,106 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:40:00,516 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:40:00,516 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:40:00,516 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:40:00,516 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:40:15,855 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:40:15,855 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:40:15,874 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:40:15,878 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:40:36,345 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:40:36,345 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:40:36,366 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:40:36,366 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:43:20,915 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:43:20,915 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:43:20,979 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:43:20,982 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:45:58,891 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:45:58,891 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:45:58,891 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:45:58,891 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:46:21,097 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:46:21,097 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:46:21,098 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:46:21,098 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:48:37,648 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:48:37,649 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:48:37,655 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:48:37,660 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:48:48,002 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:48:48,002 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:48:48,002 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:48:48,021 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 15:53:06,299 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:53:06,300 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 15:53:06,304 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 15:53:06,304 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:03:44,549 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:03:44,550 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:03:44,594 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:03:44,594 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:08:33,629 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:08:33,629 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:08:33,647 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:08:33,649 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:08:42,843 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:08:42,843 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:08:42,860 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:08:42,863 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:11:02,890 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:11:02,892 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:11:02,908 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:11:02,912 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:11:51,938 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:11:51,938 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:11:51,938 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:11:51,938 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:20:13,962 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:20:13,962 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:20:13,980 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:20:13,993 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:22:14,525 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:22:14,525 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:22:14,525 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:22:14,543 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:24:19,394 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:24:19,394 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:24:19,394 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:24:19,413 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:25:03,544 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:25:03,544 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:25:03,565 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:25:03,569 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:25:24,806 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:25:24,806 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:25:24,806 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:25:24,806 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:26:36,077 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:26:36,077 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:26:36,083 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:26:36,087 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:27:34,480 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:27:34,480 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:27:34,480 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:27:34,480 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:32:46,177 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:32:46,177 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:32:46,197 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:32:46,202 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:33:34,992 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:33:34,992 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:33:34,998 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:33:34,999 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:35:54,629 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:35:54,629 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:35:54,647 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:35:54,649 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:41:42,102 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:41:42,102 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:41:42,104 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:41:42,104 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:42:40,387 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:42:40,387 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:42:40,391 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:42:40,394 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:43:26,463 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:43:26,463 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:43:26,463 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:43:26,463 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:46:05,314 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:46:05,314 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:46:05,330 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:46:05,333 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:47:08,940 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:47:08,940 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:47:08,947 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:47:08,963 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:47:43,181 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:47:43,181 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:47:43,181 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:47:43,202 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:49:38,059 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:49:38,059 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:49:38,059 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:49:38,059 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:49:43,666 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:49:43,666 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:49:43,666 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:49:43,666 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:50:04,611 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:50:04,611 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:50:04,617 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:50:04,622 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:53:18,094 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:53:18,113 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:53:18,115 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:53:18,134 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:57:55,100 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:57:55,101 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:57:55,109 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:57:55,114 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:59:08,809 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:59:08,810 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:59:08,811 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:59:08,831 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 16:59:34,145 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:59:34,145 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 16:59:34,154 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 16:59:34,160 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:02:15,789 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:02:15,790 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:02:15,796 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:02:15,800 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:02:30,093 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:02:30,093 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:02:30,093 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:02:30,093 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:03:04,664 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:03:04,664 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:03:04,664 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:03:04,664 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:03:41,214 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:03:41,214 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:03:41,230 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:03:41,235 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:03:55,255 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:03:55,255 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:03:55,263 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:03:55,268 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:04:14,806 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:04:14,806 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:04:14,809 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:04:14,809 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:08:12,500 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:08:12,500 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:08:12,522 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:08:12,528 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:09:10,098 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:09:10,098 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:09:10,098 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:09:10,098 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:10:13,944 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:10:13,944 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:10:13,944 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:10:13,960 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:10:42,246 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:10:42,246 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:10:42,262 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:10:42,266 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:11:38,075 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:11:38,075 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:11:38,077 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:11:38,077 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:12:02,692 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:12:02,692 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:12:02,692 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:12:02,692 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:13:12,285 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:13:12,285 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:13:12,289 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:13:12,292 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:13:21,414 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:13:21,414 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:13:21,431 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:13:21,434 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:17:44,466 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:17:44,466 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:17:44,467 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:17:44,467 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:18:45,821 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:18:45,821 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:18:45,832 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:18:45,835 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:20:22,426 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:20:22,426 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:20:22,472 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:20:22,475 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:21:17,837 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:21:17,837 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:21:17,841 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:21:17,845 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:22:23,339 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:22:23,339 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:22:23,358 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:22:23,363 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:22:36,829 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:22:36,829 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:22:36,847 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:22:36,850 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:22:41,625 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:22:41,625 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:22:41,625 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:22:41,625 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:23:22,358 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:23:22,358 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:23:22,360 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:23:22,360 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:23:43,633 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:23:43,633 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:23:43,633 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:23:43,653 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:30:58,216 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:30:58,216 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:30:58,216 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:30:58,216 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:31:11,624 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:31:11,625 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:31:11,628 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:31:11,631 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:31:21,296 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:31:21,296 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:31:21,312 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:31:21,316 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-06 17:32:26,139 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:32:26,139 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-06 17:32:26,156 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-06 17:32:26,169 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-09 15:49:49,173 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 15:49:49,204 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-09 15:49:49,204 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 15:49:49,204 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-09 15:49:50,806 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 15:49:50,806 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad01\src\main\resources
+2016-03-09 15:49:50,822 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 15:49:50,822 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad01\src\test\resources
+2016-03-09 15:49:51,040 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2016-03-09 15:50:03,970 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-03-09 15:50:14,527 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02
+2016-03-09 15:50:14,558 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-03-09 15:50:41,889 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-03-09 15:50:47,894 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02
+2016-03-09 15:50:47,894 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-03-09 15:51:50,317 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02
+2016-03-09 15:51:50,333 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-03-09 15:52:19,704 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02
+2016-03-09 15:52:19,704 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-03-09 15:56:10,574 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 15:56:10,589 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-09 15:56:10,589 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 15:56:10,589 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-09 16:09:20,759 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 16:09:20,790 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad01\src\main\resources
+2016-03-09 16:09:20,790 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 16:09:20,790 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad01\src\test\resources
+2016-03-09 16:09:20,884 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 16:09:20,884 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\main\resources
+2016-03-09 16:09:20,884 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 16:09:20,884 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Patryk\Desktop\TestyJava\Java-testy\Projekt\Zad02\src\test\resources
+2016-03-09 16:09:30,979 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.

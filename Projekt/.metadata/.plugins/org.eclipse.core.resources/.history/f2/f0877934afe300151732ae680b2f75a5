@@ -1,0 +1,55 @@
+package MavenLab03.Zad02;
+
+import static org.hamcrest.Matchers.hasItems;
+import static org.junit.Assert.*;
+import static org.hamcrest.Matchers.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.junit.runners.Parameterized.Parameters;
+
+public class CyfroKradNegativeValueTest {
+	private Kontrakt kontrakt;
+	private int testData;
+	private int expectedResult;
+	
+	@Parameters
+    public static Iterable<Object[]> data() {
+        return Arrays.asList(
+                new Object[][]{ 
+                	{123, 2},
+                	{-18365029, 7},
+                	{-333124, 5},
+                	{45675793, 7},
+                	{7392, 3}
+                });
+    }
+	
+	@Before
+	public void setUp() throws Exception {
+		kontrakt = new Kontrakt();
+	}
+	
+	public CyfroKradNegativeValueTest(int data, int expected){
+		testData = data;
+		expectedResult = expected;
+	}
+	
+	@Test
+	public void CyfoKradPramTest() {
+		int result = kontrakt.CyfroKrad(testData);
+		assertThat(result, hasSize(expectedResult));
+	}
+	
+	
+	@After
+	public void tearDown() throws Exception {
+		kontrakt = null;
+	}
+
+
+
+}
