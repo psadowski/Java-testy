@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;com.exaple.calc&apos; to &apos;com.example.calc&apos;&#x0A;- Original project: &apos;Calc&apos;&#x0A;- Original element: &apos;Calc/src/com.exaple.calc&apos;&#x0A;- Renamed element: &apos;Calc/src/com.example.calc&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.exaple.calc&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.exaple.calc" name="com.example.calc" qualified="false" references="true" stamp="1455720964184" textual="false" version="1.0"/>
-</session>

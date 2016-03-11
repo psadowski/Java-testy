@@ -1,3 +1,0 @@
-INDEX VERSION 1.126+/home/student/Pulpit/Java-testy/lab01/.metadata/.plugins/org.eclipse.jdt.core
-660246180.index
-1492389189.index
