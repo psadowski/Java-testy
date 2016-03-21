@@ -1,5 +1,5 @@
 package com.example.mockdemo.app;
-
+import java.util.Random;
 import com.example.mockdemo.messenger.ConnectionStatus;
 import com.example.mockdemo.messenger.MalformedRecipientException;
 import com.example.mockdemo.messenger.MessageService;
@@ -7,7 +7,7 @@ import com.example.mockdemo.messenger.SendingStatus;
 
 public class MessageServiceMock implements MessageService {
 
-	private boolean messageStatus;
+	private Random random  = new Random();
 	
 	@Override
 	public ConnectionStatus checkConnection(String server) {
@@ -31,7 +31,7 @@ public class MessageServiceMock implements MessageService {
 			return SendingStatus.SENDING_ERROR;
 		}
 
-		if (messageStatus) {
+		if (random.nextBoolean()) {
 			return SendingStatus.SENT;
 		}
 		return SendingStatus.SENDING_ERROR;

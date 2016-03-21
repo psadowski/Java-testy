@@ -66,19 +66,28 @@ public class MessageAppTest {
 		assertEquals(2, msg.sendMessage(INVALID_SERVER, null));
 	}
 	
-	
+	@Test
+	public void CheckShortMsgSendingStatus() {
+		assertEquals(2, msg.sendMessage(VALID_SERVER, INVALID_MESSAGE));
+	}
 	
 	@Test
-	public void checkSendingMessage() {
-
+	public void CheckShortServerSendingStatus() {
+		assertEquals(2, msg.sendMessage(INVALID_SERVER2, VALID_MESSAGE));
+	}
+	
+	@Test
+	public void CheckInvalidServerSendingStatus() {
 		assertEquals(1, msg.sendMessage(INVALID_SERVER, VALID_MESSAGE));
-		assertEquals(2, msg.sendMessage(VALID_SERVER, INVALID_MESSAGE));
-
-		assertThat(msg.sendMessage(VALID_SERVER, VALID_MESSAGE),
-				either(equalTo(0)).or(equalTo(1)));
 	}
 	
 	
+	@Test
+	public void CheckCorrectSendingStatus() {
+		assertThat(msg.sendMessage(VALID_SERVER, VALID_MESSAGE),
+				either(equalTo(0)).or(equalTo(1)));
+	}
+
 	@After
 	public void tearDown() throws Exception {
 		msg = null;
