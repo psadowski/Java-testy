@@ -34,8 +34,8 @@ public class MySteps extends Steps {
 
 	}
 
-	@When("added to tree it becomes root.")
-	public void whenAddedToTreeItBecomesRoot() {
+	@Then("added to tree it becomes root.")
+	public void ThenAddedToTreeItBecomesRoot() {
 		assertThat(impl.root, is(not(equalTo(null))));
 	}
 
@@ -45,8 +45,8 @@ public class MySteps extends Steps {
 		impl.addNode(0, "second");
 	}
 
-	@When("added to tree it becomes left child.")
-	public void whenAddedToTreeItBecomesLeftChild() {
+	@Then("added to tree it becomes left child.")
+	public void ThenAddedToTreeItBecomesLeftChild() {
 		assertThat(impl.root.leftChild, is(not(equalTo(null))));
 	}
 
@@ -57,13 +57,13 @@ public class MySteps extends Steps {
 		impl.addNode(3, "third");
 	}
 
-	@When("added to tree it becomes right child.")
-	public void whenAddedToTreeItBecomesRightChild() {
+	@Then("added to tree it becomes right child.")
+	public void ThenAddedToTreeItBecomesRightChild() {
 		assertThat(impl.root.rightChild, is(not(equalTo(null))));
 	}
 
-	@When("finding root should become focusNode.")
-	public void whenFindingRootShouldBecomeFocusNode() {
+	@Then("finding root should become focusNode.")
+	public void ThenFindingRootShouldBecomeFocusNode() {
 		assertThat(impl.root, is(equalTo(impl.findNode(1))));
 	}
 
@@ -74,8 +74,8 @@ public class MySteps extends Steps {
 		impl.addNode(3, "third");
 	}
 
-	@When("finding it, it should have different key than root.")
-	public void whenFindingItItShouldHaveDifferentKeyThanRoot() {
+	@Then("finding it, it should have different key than root.")
+	public void ThenFindingItItShouldHaveDifferentKeyThanRoot() {
 		assertThat(impl.root.key, is(not(equalTo(impl.findNode(3).key))));
 	}
 
@@ -93,8 +93,8 @@ public class MySteps extends Steps {
 		impl.addNode(3, "third");
 	}
 
-	@When("finding it, it shhould return null.")
-	public void whenFindingItItShhouldReturnNull() {
+	@Then("finding it, it shhould return null.")
+	public void ThenFindingItItShhouldReturnNull() {
 		assertThat(impl.findNode(9), is(equalTo(null)));
 	}
 
@@ -109,7 +109,7 @@ public class MySteps extends Steps {
 		impl.addNode(9, "third");
 	}
 
-	@When("fining it, it should start finding in leftChild.")
+	@Then("fining it, it should start finding in leftChild.")
 	public void test() {
 		assertThat(impl.findNode(0), is(not(equalTo(null))));
 	}
@@ -133,16 +133,16 @@ public class MySteps extends Steps {
 		impl.addNode(75, "third");
 		impl.addNode(85, "third");
 	}
-	@When("deleting it, remove method should return true.")
+	@Then("deleting it, remove method should return true.")
 	public void verify(){
 		assertThat(impl.remove(9), is(equalTo(true)));
 		
 	}
-	@When("deleting it, remove method should return false.")
+	@Then("deleting it, remove method should return false.")
 	public void verify2(){
 		assertThat(impl.remove(11), is(equalTo(false)));
 	}
-	@When("deleting it, we shouldnt find it in tree with findNode method.")
+	@Then("deleting it, we shouldnt find it in tree with findNode method.")
 	public void verify3(){
 		impl.remove(25);
 		assertThat(impl.findNode(25),is(equalTo(null)));
@@ -151,7 +151,7 @@ public class MySteps extends Steps {
 	public void rootDelete(){
 		impl.addNode(0, "root");
 	}
-	@When("deleting it, we should find null tree.")
+	@Then("deleting it, we should find null tree.")
 	public void verify4(){
 		impl.remove(0);
 		assertThat(impl.root, is(equalTo(null)));
@@ -162,7 +162,7 @@ public class MySteps extends Steps {
 		impl.addNode(1, "left");
 		impl.addNode(3, "right");
 	}
-	@When("deleting it, we should get true from method.")
+	@Then("deleting it, we should get true from method.")
 	public void verify5(){
 		impl.remove(1);
 		assertThat(impl.root.leftChild, is(equalTo(null)));
@@ -174,7 +174,7 @@ public class MySteps extends Steps {
 		impl.addNode(3, "right");
 		impl.addNode(4, "child");
 	}
-	@When("deleting it should be deleted.")
+	@Then("deleting it should be deleted.")
 	public void verify6(){
 		assertThat(impl.remove(3), is(equalTo(true)));
 	}
@@ -185,7 +185,7 @@ public class MySteps extends Steps {
 		impl.addNode(3, "right");
 		impl.addNode(4, "child");
 	}
-	@When("deleting it should make replecament.")
+	@Then("deleting it should make replecament.")
 	public void verify7(){
 		assertThat(impl.remove(2), is(equalTo(true)));
 	}
@@ -197,17 +197,17 @@ public class MySteps extends Steps {
 		impl.addNode(0, "root");
 		impl.addNode(6, "root");
 	}
-	@When("deleting it, we should get replacement.")
+	@Then("deleting it, we should get replacement.")
 	public void verify11(){
 		assertThat(impl.remove(10), is(equalTo(true)));
 	}
-	@When("deleting it, we should get replacement2.")
+	@Then("deleting it, we should get replacement2.")
 	public void verify12(){
 		assertThat(impl.remove(10), is(equalTo(true)));
 		assertThat(impl.remove(6), is(equalTo(true)));
 		assertThat(impl.remove(2), is(equalTo(true)));
 	}
-	@When("deleting it, we should get replacement3.")
+	@Then("deleting it, we should get replacement3.")
 	public void verify13(){
 		assertThat(impl.remove(1), is(equalTo(true)));
 	}
@@ -217,7 +217,7 @@ public class MySteps extends Steps {
 		impl.addNode(10, "right");
 		impl.addNode(6, "root");
 	}
-	@When("deleting it, we should get replacement4.")
+	@Then("deleting it, we should get replacement4.")
 	public void verify14(){
 		assertThat(impl.remove(2), is(equalTo(true)));
 	}
@@ -229,7 +229,7 @@ public class MySteps extends Steps {
 		impl.addNode(0, "root");
 		impl.addNode(6, "root");
 	}
-	@When("deleting it, we should get replacement5.")
+	@Then("deleting it, we should get replacement5.")
 	public void verify15(){
 		assertThat(impl.remove(0), is(equalTo(true)));
 		assertThat(impl.remove(1), is(equalTo(true)));
